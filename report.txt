@@ -1,0 +1,2415 @@
+Result with parameters max features: 2000, gram number: from 1 to 1, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.74      0.73      5331
+        1.0       0.73      0.70      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.74      5331
+        1.0       0.74      0.73      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+Running time of MultinomialNB:1.08675098419
+
+Result with parameters max features: 2000, gram number: from 1 to 1, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.73      0.73      5331
+        1.0       0.73      0.73      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.74      5331
+        1.0       0.74      0.73      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+Running time of MultinomialNB:0.882421016693
+
+Result with parameters max features: 2000, gram number: from 1 to 1, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.74      0.73      5331
+        1.0       0.73      0.71      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.72      0.72      5331
+        1.0       0.72      0.71      0.71      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.74      0.74      5331
+        1.0       0.74      0.73      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+Running time of MultinomialNB:1.29219913483
+
+Result with parameters max features: 2000, gram number: from 1 to 1, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.73      0.73      5331
+        1.0       0.73      0.72      0.72      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.72      0.72      5331
+        1.0       0.72      0.71      0.71      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.74      0.74      5331
+        1.0       0.74      0.73      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+Running time of MultinomialNB:1.24148392677
+
+Result with parameters max features: 2000, gram number: from 2 to 2, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.18      0.29      5331
+        1.0       0.53      0.92      0.67      5331
+
+avg / total       0.62      0.55      0.48     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.66      0.36      0.47      5331
+        1.0       0.56      0.81      0.66      5331
+
+avg / total       0.61      0.59      0.57     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.56      0.81      0.66      5331
+        1.0       0.66      0.36      0.46      5331
+
+avg / total       0.61      0.59      0.56     10662
+
+Running time of MultinomialNB:0.878591060638
+
+Result with parameters max features: 2000, gram number: from 2 to 2, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.66      0.37      0.47      5331
+        1.0       0.56      0.81      0.67      5331
+
+avg / total       0.61      0.59      0.57     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.66      0.36      0.47      5331
+        1.0       0.56      0.81      0.66      5331
+
+avg / total       0.61      0.59      0.57     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.56      0.81      0.66      5331
+        1.0       0.66      0.36      0.46      5331
+
+avg / total       0.61      0.59      0.56     10662
+
+Running time of MultinomialNB:0.911133050919
+
+Result with parameters max features: 2000, gram number: from 2 to 2, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.70      0.21      0.32      5331
+        1.0       0.54      0.91      0.67      5331
+
+avg / total       0.62      0.56      0.50     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.36      0.46      5331
+        1.0       0.56      0.81      0.66      5331
+
+avg / total       0.60      0.58      0.56     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.56      0.79      0.65      5331
+        1.0       0.64      0.38      0.47      5331
+
+avg / total       0.60      0.58      0.56     10662
+
+Running time of MultinomialNB:1.36907601357
+
+Result with parameters max features: 2000, gram number: from 2 to 2, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.66      0.36      0.47      5331
+        1.0       0.56      0.81      0.66      5331
+
+avg / total       0.61      0.59      0.57     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.36      0.46      5331
+        1.0       0.56      0.81      0.66      5331
+
+avg / total       0.60      0.58      0.56     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.56      0.79      0.65      5331
+        1.0       0.64      0.38      0.47      5331
+
+avg / total       0.60      0.58      0.56     10662
+
+Running time of MultinomialNB:1.31556892395
+
+Result with parameters max features: 2000, gram number: from 1 to 2, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.74      0.73      5331
+        1.0       0.73      0.70      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.74      0.74      5331
+        1.0       0.74      0.73      0.73      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+Running time of MultinomialNB:0.909265995026
+
+Result with parameters max features: 2000, gram number: from 1 to 2, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.73      0.73      5331
+        1.0       0.73      0.73      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.74      0.74      5331
+        1.0       0.74      0.73      0.73      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+Running time of MultinomialNB:0.891595125198
+
+Result with parameters max features: 2000, gram number: from 1 to 2, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.73      0.73      5331
+        1.0       0.73      0.71      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.72      0.72      5331
+        1.0       0.72      0.71      0.71      5331
+
+avg / total       0.71      0.71      0.71     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.74      0.73      5331
+        1.0       0.74      0.73      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+Running time of MultinomialNB:1.24390602112
+
+Result with parameters max features: 2000, gram number: from 1 to 2, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.73      0.73      5331
+        1.0       0.73      0.72      0.72      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.72      0.72      5331
+        1.0       0.72      0.71      0.71      5331
+
+avg / total       0.71      0.71      0.71     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.74      0.73      5331
+        1.0       0.74      0.73      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+Running time of MultinomialNB:1.22835993767
+
+Result with parameters max features: 2500, gram number: from 1 to 1, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.74      0.73      5331
+        1.0       0.73      0.71      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.73      0.73      5331
+        1.0       0.73      0.73      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.76      0.75      5331
+        1.0       0.75      0.74      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:1.13416981697
+
+Result with parameters max features: 2500, gram number: from 1 to 1, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.74      0.74      5331
+        1.0       0.74      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.73      0.73      5331
+        1.0       0.73      0.73      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.76      0.75      5331
+        1.0       0.75      0.74      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:1.12006211281
+
+Result with parameters max features: 2500, gram number: from 1 to 1, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.74      0.73      5331
+        1.0       0.74      0.72      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.72      0.72      5331
+        1.0       0.72      0.71      0.71      5331
+
+avg / total       0.71      0.71      0.71     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.76      0.75      5331
+        1.0       0.75      0.74      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:1.6717710495
+
+Result with parameters max features: 2500, gram number: from 1 to 1, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.74      0.73      5331
+        1.0       0.74      0.73      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.72      0.72      5331
+        1.0       0.72      0.71      0.71      5331
+
+avg / total       0.71      0.71      0.71     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.76      0.75      5331
+        1.0       0.75      0.74      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:1.79558897018
+
+Result with parameters max features: 2500, gram number: from 2 to 2, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.70      0.18      0.29      5331
+        1.0       0.53      0.92      0.67      5331
+
+avg / total       0.62      0.55      0.48     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.38      0.48      5331
+        1.0       0.56      0.80      0.66      5331
+
+avg / total       0.61      0.59      0.57     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.56      0.80      0.66      5331
+        1.0       0.65      0.38      0.48      5331
+
+avg / total       0.61      0.59      0.57     10662
+
+Running time of MultinomialNB:1.28474402428
+
+Result with parameters max features: 2500, gram number: from 2 to 2, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.66      0.38      0.48      5331
+        1.0       0.56      0.80      0.66      5331
+
+avg / total       0.61      0.59      0.57     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.38      0.48      5331
+        1.0       0.56      0.80      0.66      5331
+
+avg / total       0.61      0.59      0.57     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.56      0.80      0.66      5331
+        1.0       0.65      0.38      0.48      5331
+
+avg / total       0.61      0.59      0.57     10662
+
+Running time of MultinomialNB:1.27696180344
+
+Result with parameters max features: 2500, gram number: from 2 to 2, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.70      0.22      0.33      5331
+        1.0       0.54      0.91      0.67      5331
+
+avg / total       0.62      0.56      0.50     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.37      0.47      5331
+        1.0       0.56      0.80      0.66      5331
+
+avg / total       0.60      0.58      0.56     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.56      0.78      0.65      5331
+        1.0       0.64      0.40      0.49      5331
+
+avg / total       0.60      0.59      0.57     10662
+
+Running time of MultinomialNB:1.86400294304
+
+Result with parameters max features: 2500, gram number: from 2 to 2, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.38      0.48      5331
+        1.0       0.56      0.80      0.66      5331
+
+avg / total       0.61      0.59      0.57     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.37      0.47      5331
+        1.0       0.56      0.80      0.66      5331
+
+avg / total       0.60      0.58      0.56     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.56      0.78      0.65      5331
+        1.0       0.64      0.40      0.49      5331
+
+avg / total       0.60      0.59      0.57     10662
+
+Running time of MultinomialNB:1.72455406189
+
+Result with parameters max features: 2500, gram number: from 1 to 2, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.74      0.73      5331
+        1.0       0.73      0.71      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.73      0.73      5331
+        1.0       0.73      0.73      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.75      5331
+        1.0       0.75      0.74      0.74      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:1.07980418205
+
+Result with parameters max features: 2500, gram number: from 1 to 2, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.74      0.74      5331
+        1.0       0.74      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.73      0.73      5331
+        1.0       0.73      0.73      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.75      5331
+        1.0       0.75      0.74      0.74      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:1.04474902153
+
+Result with parameters max features: 2500, gram number: from 1 to 2, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.74      0.73      5331
+        1.0       0.74      0.72      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.72      0.72      5331
+        1.0       0.72      0.71      0.71      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.74      5331
+        1.0       0.75      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+Running time of MultinomialNB:1.62940192223
+
+Result with parameters max features: 2500, gram number: from 1 to 2, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.74      0.74      5331
+        1.0       0.74      0.73      0.73      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.72      0.72      5331
+        1.0       0.72      0.71      0.71      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.74      5331
+        1.0       0.75      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+Running time of MultinomialNB:1.78351616859
+
+Result with parameters max features: 3000, gram number: from 1 to 1, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.74      0.73      5331
+        1.0       0.73      0.71      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.74      0.74      5331
+        1.0       0.74      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.76      0.75      5331
+        1.0       0.76      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:1.40919113159
+
+Result with parameters max features: 3000, gram number: from 1 to 1, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.75      5331
+        1.0       0.75      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.74      0.74      5331
+        1.0       0.74      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.76      0.75      5331
+        1.0       0.76      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:1.70009207726
+
+Result with parameters max features: 3000, gram number: from 1 to 1, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.74      0.73      5331
+        1.0       0.74      0.72      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.76      0.75      5331
+        1.0       0.76      0.74      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:1.9532148838
+
+Result with parameters max features: 3000, gram number: from 1 to 1, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.74      0.74      5331
+        1.0       0.74      0.73      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.76      0.75      5331
+        1.0       0.76      0.74      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:2.02369213104
+
+Result with parameters max features: 3000, gram number: from 2 to 2, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.70      0.17      0.28      5331
+        1.0       0.53      0.93      0.67      5331
+
+avg / total       0.61      0.55      0.48     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.40      0.49      5331
+        1.0       0.57      0.79      0.66      5331
+
+avg / total       0.61      0.59      0.58     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.57      0.79      0.66      5331
+        1.0       0.65      0.40      0.50      5331
+
+avg / total       0.61      0.59      0.58     10662
+
+Running time of MultinomialNB:1.58333683014
+
+Result with parameters max features: 3000, gram number: from 2 to 2, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.66      0.40      0.50      5331
+        1.0       0.57      0.79      0.66      5331
+
+avg / total       0.61      0.60      0.58     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.40      0.49      5331
+        1.0       0.57      0.79      0.66      5331
+
+avg / total       0.61      0.59      0.58     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.57      0.79      0.66      5331
+        1.0       0.65      0.40      0.50      5331
+
+avg / total       0.61      0.59      0.58     10662
+
+Running time of MultinomialNB:1.72252202034
+
+Result with parameters max features: 3000, gram number: from 2 to 2, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.70      0.21      0.32      5331
+        1.0       0.53      0.91      0.67      5331
+
+avg / total       0.62      0.56      0.50     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.38      0.48      5331
+        1.0       0.56      0.79      0.66      5331
+
+avg / total       0.60      0.59      0.57     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.57      0.77      0.65      5331
+        1.0       0.64      0.42      0.51      5331
+
+avg / total       0.61      0.59      0.58     10662
+
+Running time of MultinomialNB:2.02385902405
+
+Result with parameters max features: 3000, gram number: from 2 to 2, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.66      0.40      0.50      5331
+        1.0       0.57      0.79      0.66      5331
+
+avg / total       0.61      0.59      0.58     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.38      0.48      5331
+        1.0       0.56      0.79      0.66      5331
+
+avg / total       0.60      0.59      0.57     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.57      0.77      0.65      5331
+        1.0       0.64      0.42      0.51      5331
+
+avg / total       0.61      0.59      0.58     10662
+
+Running time of MultinomialNB:2.23888397217
+
+Result with parameters max features: 3000, gram number: from 1 to 2, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.74      0.73      5331
+        1.0       0.73      0.71      0.72      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.73      0.73      5331
+        1.0       0.73      0.73      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.74      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:1.52775883675
+
+Result with parameters max features: 3000, gram number: from 1 to 2, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.74      0.74      5331
+        1.0       0.74      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.73      0.73      5331
+        1.0       0.73      0.73      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.74      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:1.88060379028
+
+Result with parameters max features: 3000, gram number: from 1 to 2, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.74      0.74      5331
+        1.0       0.74      0.72      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.75      5331
+        1.0       0.75      0.74      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:2.47568702698
+
+Result with parameters max features: 3000, gram number: from 1 to 2, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.74      0.74      5331
+        1.0       0.74      0.73      0.73      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.75      5331
+        1.0       0.75      0.74      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:2.59554505348
+
+Result with parameters max features: 3500, gram number: from 1 to 1, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.74      0.73      5331
+        1.0       0.73      0.70      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.74      0.74      5331
+        1.0       0.74      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.77      0.76      5331
+        1.0       0.76      0.75      0.75      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:1.92522096634
+
+Result with parameters max features: 3500, gram number: from 1 to 1, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.74      0.74      5331
+        1.0       0.74      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.77      0.76      5331
+        1.0       0.76      0.75      0.75      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:1.55433297157
+
+Result with parameters max features: 3500, gram number: from 1 to 1, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.74      0.74      5331
+        1.0       0.74      0.72      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.71      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.77      0.76      5331
+        1.0       0.76      0.74      0.75      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:2.48001790047
+
+Result with parameters max features: 3500, gram number: from 1 to 1, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.74      5331
+        1.0       0.74      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.71      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.77      0.76      5331
+        1.0       0.76      0.74      0.75      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:2.21610999107
+
+Result with parameters max features: 3500, gram number: from 2 to 2, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.70      0.17      0.27      5331
+        1.0       0.53      0.93      0.67      5331
+
+avg / total       0.61      0.55      0.47     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.41      0.51      5331
+        1.0       0.57      0.78      0.66      5331
+
+avg / total       0.61      0.60      0.58     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.57      0.78      0.66      5331
+        1.0       0.66      0.42      0.51      5331
+
+avg / total       0.61      0.60      0.59     10662
+
+Running time of MultinomialNB:1.612169981
+
+Result with parameters max features: 3500, gram number: from 2 to 2, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.66      0.42      0.51      5331
+        1.0       0.57      0.79      0.66      5331
+
+avg / total       0.62      0.60      0.59     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.41      0.51      5331
+        1.0       0.57      0.78      0.66      5331
+
+avg / total       0.61      0.60      0.58     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.57      0.78      0.66      5331
+        1.0       0.66      0.42      0.51      5331
+
+avg / total       0.61      0.60      0.59     10662
+
+Running time of MultinomialNB:1.62829184532
+
+Result with parameters max features: 3500, gram number: from 2 to 2, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.70      0.21      0.33      5331
+        1.0       0.54      0.91      0.67      5331
+
+avg / total       0.62      0.56      0.50     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.41      0.50      5331
+        1.0       0.57      0.78      0.66      5331
+
+avg / total       0.61      0.60      0.58     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.57      0.76      0.65      5331
+        1.0       0.64      0.44      0.52      5331
+
+avg / total       0.61      0.60      0.59     10662
+
+Running time of MultinomialNB:2.24214100838
+
+Result with parameters max features: 3500, gram number: from 2 to 2, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.66      0.41      0.51      5331
+        1.0       0.57      0.78      0.66      5331
+
+avg / total       0.61      0.60      0.58     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.41      0.50      5331
+        1.0       0.57      0.78      0.66      5331
+
+avg / total       0.61      0.60      0.58     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.57      0.76      0.65      5331
+        1.0       0.64      0.44      0.52      5331
+
+avg / total       0.61      0.60      0.59     10662
+
+Running time of MultinomialNB:2.28877902031
+
+Result with parameters max features: 3500, gram number: from 1 to 2, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.74      0.73      5331
+        1.0       0.73      0.71      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.74      0.74      5331
+        1.0       0.74      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.76      0.75      5331
+        1.0       0.76      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:3.13282990456
+
+Result with parameters max features: 3500, gram number: from 1 to 2, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.74      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.74      0.74      5331
+        1.0       0.74      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.76      0.75      5331
+        1.0       0.76      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:1.66985082626
+
+Result with parameters max features: 3500, gram number: from 1 to 2, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.75      0.74      5331
+        1.0       0.74      0.72      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.76      0.75      5331
+        1.0       0.76      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:4.14539909363
+
+Result with parameters max features: 3500, gram number: from 1 to 2, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.74      5331
+        1.0       0.74      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.76      0.75      5331
+        1.0       0.76      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+Running time of MultinomialNB:2.46123886108
+
+Result with parameters max features: 4000, gram number: from 1 to 1, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.74      0.73      5331
+        1.0       0.73      0.70      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.75      5331
+        1.0       0.75      0.74      0.74      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.76      0.76      5331
+        1.0       0.76      0.75      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:1.97035598755
+
+Result with parameters max features: 4000, gram number: from 1 to 1, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.75      5331
+        1.0       0.75      0.74      0.74      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.76      0.76      5331
+        1.0       0.76      0.75      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:1.94893598557
+
+Result with parameters max features: 4000, gram number: from 1 to 1, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.75      0.74      5331
+        1.0       0.74      0.72      0.73      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.73      0.72      5331
+        1.0       0.73      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.77      0.76      5331
+        1.0       0.76      0.75      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:2.62474012375
+
+Result with parameters max features: 4000, gram number: from 1 to 1, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.74      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.73      0.72      5331
+        1.0       0.73      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.77      0.76      5331
+        1.0       0.76      0.75      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:2.49576687813
+
+Result with parameters max features: 4000, gram number: from 2 to 2, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.17      0.27      5331
+        1.0       0.53      0.93      0.67      5331
+
+avg / total       0.62      0.55      0.47     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.42      0.51      5331
+        1.0       0.57      0.77      0.66      5331
+
+avg / total       0.61      0.60      0.59     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.58      0.77      0.66      5331
+        1.0       0.66      0.44      0.53      5331
+
+avg / total       0.62      0.61      0.60     10662
+
+Running time of MultinomialNB:1.87204003334
+
+Result with parameters max features: 4000, gram number: from 2 to 2, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.66      0.43      0.52      5331
+        1.0       0.58      0.78      0.66      5331
+
+avg / total       0.62      0.60      0.59     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.42      0.51      5331
+        1.0       0.57      0.77      0.66      5331
+
+avg / total       0.61      0.60      0.59     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.58      0.77      0.66      5331
+        1.0       0.66      0.44      0.53      5331
+
+avg / total       0.62      0.61      0.60     10662
+
+Running time of MultinomialNB:2.95535802841
+
+Result with parameters max features: 4000, gram number: from 2 to 2, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.70      0.22      0.33      5331
+        1.0       0.54      0.91      0.67      5331
+
+avg / total       0.62      0.56      0.50     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.42      0.51      5331
+        1.0       0.57      0.77      0.66      5331
+
+avg / total       0.61      0.59      0.58     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.58      0.75      0.65      5331
+        1.0       0.65      0.46      0.54      5331
+
+avg / total       0.61      0.61      0.60     10662
+
+Running time of MultinomialNB:2.83431792259
+
+Result with parameters max features: 4000, gram number: from 2 to 2, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.66      0.43      0.52      5331
+        1.0       0.58      0.78      0.66      5331
+
+avg / total       0.62      0.60      0.59     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.65      0.42      0.51      5331
+        1.0       0.57      0.77      0.66      5331
+
+avg / total       0.61      0.59      0.58     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.58      0.75      0.65      5331
+        1.0       0.65      0.46      0.54      5331
+
+avg / total       0.61      0.61      0.60     10662
+
+Running time of MultinomialNB:2.7238111496
+
+Result with parameters max features: 4000, gram number: from 1 to 2, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.74      0.73      5331
+        1.0       0.73      0.70      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.74      0.74      5331
+        1.0       0.74      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.76      0.76      5331
+        1.0       0.76      0.75      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:1.74780988693
+
+Result with parameters max features: 4000, gram number: from 1 to 2, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.74      0.74      5331
+        1.0       0.74      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.76      0.76      5331
+        1.0       0.76      0.75      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:1.73078393936
+
+Result with parameters max features: 4000, gram number: from 1 to 2, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.75      0.74      5331
+        1.0       0.74      0.73      0.73      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.76      0.76      5331
+        1.0       0.76      0.75      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:2.47972798347
+
+Result with parameters max features: 4000, gram number: from 1 to 2, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.75      5331
+        1.0       0.75      0.74      0.74      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.76      0.76      5331
+        1.0       0.76      0.75      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:2.70825099945
+
+Result with parameters max features: 4500, gram number: from 1 to 1, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.74      0.73      5331
+        1.0       0.73      0.70      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.74      0.74      5331
+        1.0       0.74      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.76      0.76      5331
+        1.0       0.76      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:1.97395801544
+
+Result with parameters max features: 4500, gram number: from 1 to 1, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.74      0.74      5331
+        1.0       0.74      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.76      0.76      5331
+        1.0       0.76      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:1.9690952301
+
+Result with parameters max features: 4500, gram number: from 1 to 1, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.75      0.74      5331
+        1.0       0.74      0.72      0.73      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.71      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.76      5331
+        1.0       0.76      0.75      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:6.60237407684
+
+Result with parameters max features: 4500, gram number: from 1 to 1, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.75      5331
+        1.0       0.75      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.71      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.76      5331
+        1.0       0.76      0.75      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:4.51818203926
+
+Result with parameters max features: 4500, gram number: from 2 to 2, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.16      0.26      5331
+        1.0       0.53      0.93      0.67      5331
+
+avg / total       0.62      0.55      0.47     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.63      0.46      0.53      5331
+        1.0       0.58      0.73      0.64      5331
+
+avg / total       0.60      0.60      0.59     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.59      0.77      0.66      5331
+        1.0       0.66      0.46      0.54      5331
+
+avg / total       0.62      0.61      0.60     10662
+
+Running time of MultinomialNB:2.26910305023
+
+Result with parameters max features: 4500, gram number: from 2 to 2, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.66      0.44      0.53      5331
+        1.0       0.58      0.77      0.66      5331
+
+avg / total       0.62      0.60      0.59     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.63      0.46      0.53      5331
+        1.0       0.58      0.73      0.64      5331
+
+avg / total       0.60      0.60      0.59     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.59      0.77      0.66      5331
+        1.0       0.66      0.46      0.54      5331
+
+avg / total       0.62      0.61      0.60     10662
+
+Running time of MultinomialNB:2.31329703331
+
+Result with parameters max features: 4500, gram number: from 2 to 2, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.70      0.21      0.33      5331
+        1.0       0.54      0.91      0.67      5331
+
+avg / total       0.62      0.56      0.50     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.61      0.49      0.54      5331
+        1.0       0.57      0.69      0.63      5331
+
+avg / total       0.59      0.59      0.59     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.59      0.74      0.65      5331
+        1.0       0.65      0.48      0.55      5331
+
+avg / total       0.62      0.61      0.60     10662
+
+Running time of MultinomialNB:4.12398505211
+
+Result with parameters max features: 4500, gram number: from 2 to 2, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.66      0.44      0.53      5331
+        1.0       0.58      0.77      0.66      5331
+
+avg / total       0.62      0.60      0.59     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.61      0.49      0.54      5331
+        1.0       0.57      0.69      0.63      5331
+
+avg / total       0.59      0.59      0.59     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.59      0.74      0.65      5331
+        1.0       0.65      0.48      0.55      5331
+
+avg / total       0.62      0.61      0.60     10662
+
+Running time of MultinomialNB:4.09861493111
+
+Result with parameters max features: 4500, gram number: from 1 to 2, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.74      0.73      5331
+        1.0       0.73      0.70      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.75      5331
+        1.0       0.75      0.74      0.74      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.76      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:2.06289386749
+
+Result with parameters max features: 4500, gram number: from 1 to 2, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.75      5331
+        1.0       0.75      0.74      0.74      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.76      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:2.03618502617
+
+Result with parameters max features: 4500, gram number: from 1 to 2, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.75      0.74      5331
+        1.0       0.74      0.73      0.73      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.73      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.76      5331
+        1.0       0.76      0.75      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:4.08009505272
+
+Result with parameters max features: 4500, gram number: from 1 to 2, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.74      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.73      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.76      5331
+        1.0       0.76      0.75      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:3.78918910027
+
+Result with parameters max features: 5000, gram number: from 1 to 1, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.74      0.73      5331
+        1.0       0.73      0.70      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.74      0.74      5331
+        1.0       0.74      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.76      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:2.51499295235
+
+Result with parameters max features: 5000, gram number: from 1 to 1, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.74      0.74      5331
+        1.0       0.74      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.76      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:2.2969391346
+
+Result with parameters max features: 5000, gram number: from 1 to 1, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.75      0.74      5331
+        1.0       0.74      0.73      0.73      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.71      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.77      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:4.78280091286
+
+Result with parameters max features: 5000, gram number: from 1 to 1, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.75      5331
+        1.0       0.75      0.74      0.74      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.71      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.77      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:4.75496196747
+
+Result with parameters max features: 5000, gram number: from 2 to 2, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.70      0.16      0.26      5331
+        1.0       0.53      0.93      0.67      5331
+
+avg / total       0.61      0.54      0.46     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.61      0.57      0.59      5331
+        1.0       0.60      0.63      0.62      5331
+
+avg / total       0.60      0.60      0.60     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.59      0.77      0.67      5331
+        1.0       0.67      0.47      0.55      5331
+
+avg / total       0.63      0.62      0.61     10662
+
+Running time of MultinomialNB:2.50613713264
+
+Result with parameters max features: 5000, gram number: from 2 to 2, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.66      0.46      0.54      5331
+        1.0       0.58      0.77      0.66      5331
+
+avg / total       0.62      0.61      0.60     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.61      0.57      0.59      5331
+        1.0       0.60      0.63      0.62      5331
+
+avg / total       0.60      0.60      0.60     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.59      0.77      0.67      5331
+        1.0       0.67      0.47      0.55      5331
+
+avg / total       0.63      0.62      0.61     10662
+
+Running time of MultinomialNB:2.35872292519
+
+Result with parameters max features: 5000, gram number: from 2 to 2, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.70      0.21      0.33      5331
+        1.0       0.54      0.91      0.67      5331
+
+avg / total       0.62      0.56      0.50     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.58      0.69      0.63      5331
+        1.0       0.62      0.50      0.55      5331
+
+avg / total       0.60      0.60      0.59     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.60      0.73      0.66      5331
+        1.0       0.65      0.50      0.57      5331
+
+avg / total       0.62      0.62      0.61     10662
+
+Running time of MultinomialNB:4.92981696129
+
+Result with parameters max features: 5000, gram number: from 2 to 2, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.66      0.46      0.54      5331
+        1.0       0.58      0.77      0.66      5331
+
+avg / total       0.62      0.61      0.60     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.58      0.69      0.63      5331
+        1.0       0.62      0.50      0.55      5331
+
+avg / total       0.60      0.60      0.59     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.60      0.73      0.66      5331
+        1.0       0.65      0.50      0.57      5331
+
+avg / total       0.62      0.62      0.61     10662
+
+Running time of MultinomialNB:5.1006770134
+
+Result with parameters max features: 5000, gram number: from 1 to 2, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.74      0.73      5331
+        1.0       0.73      0.70      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.76      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:2.34752607346
+
+Result with parameters max features: 5000, gram number: from 1 to 2, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.76      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:2.31761097908
+
+Result with parameters max features: 5000, gram number: from 1 to 2, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.75      0.74      5331
+        1.0       0.74      0.73      0.73      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.73      0.73      5331
+        1.0       0.73      0.72      0.72      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.76      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:4.85807991028
+
+Result with parameters max features: 5000, gram number: from 1 to 2, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.73      0.73      5331
+        1.0       0.73      0.72      0.72      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.76      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:4.71216201782
+
+Result with parameters max features: 5500, gram number: from 1 to 1, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.74      0.73      5331
+        1.0       0.73      0.70      0.71      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.74      5331
+        1.0       0.75      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.76      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:2.64189100266
+
+Result with parameters max features: 5500, gram number: from 1 to 1, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.74      0.75      0.74      5331
+        1.0       0.75      0.74      0.74      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.76      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:2.59782099724
+
+Result with parameters max features: 5500, gram number: from 1 to 1, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.74      0.74      5331
+        1.0       0.74      0.73      0.73      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.77      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:5.85725498199
+
+Result with parameters max features: 5500, gram number: from 1 to 1, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.74      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.72      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.77      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:5.68246507645
+
+Result with parameters max features: 5500, gram number: from 2 to 2, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.70      0.15      0.25      5331
+        1.0       0.52      0.93      0.67      5331
+
+avg / total       0.61      0.54      0.46     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.61      0.58      0.60      5331
+        1.0       0.60      0.63      0.62      5331
+
+avg / total       0.61      0.61      0.61     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.59      0.76      0.67      5331
+        1.0       0.67      0.48      0.56      5331
+
+avg / total       0.63      0.62      0.61     10662
+
+Running time of MultinomialNB:2.58614015579
+
+Result with parameters max features: 5500, gram number: from 2 to 2, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.66      0.47      0.55      5331
+        1.0       0.59      0.76      0.66      5331
+
+avg / total       0.62      0.61      0.61     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.61      0.58      0.60      5331
+        1.0       0.60      0.63      0.62      5331
+
+avg / total       0.61      0.61      0.61     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.59      0.76      0.67      5331
+        1.0       0.67      0.48      0.56      5331
+
+avg / total       0.63      0.62      0.61     10662
+
+Running time of MultinomialNB:2.71201395988
+
+Result with parameters max features: 5500, gram number: from 2 to 2, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.70      0.21      0.33      5331
+        1.0       0.54      0.91      0.67      5331
+
+avg / total       0.62      0.56      0.50     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.59      0.67      0.62      5331
+        1.0       0.61      0.53      0.57      5331
+
+avg / total       0.60      0.60      0.60     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.60      0.73      0.66      5331
+        1.0       0.65      0.51      0.57      5331
+
+avg / total       0.63      0.62      0.62     10662
+
+Running time of MultinomialNB:5.79102087021
+
+Result with parameters max features: 5500, gram number: from 2 to 2, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.66      0.47      0.55      5331
+        1.0       0.59      0.76      0.66      5331
+
+avg / total       0.63      0.61      0.61     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.59      0.67      0.62      5331
+        1.0       0.61      0.53      0.57      5331
+
+avg / total       0.60      0.60      0.60     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.60      0.73      0.66      5331
+        1.0       0.65      0.51      0.57      5331
+
+avg / total       0.63      0.62      0.62     10662
+
+Running time of MultinomialNB:5.7850651741
+
+Result with parameters max features: 5500, gram number: from 1 to 2, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.74      0.73      5331
+        1.0       0.73      0.70      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.77      0.77      0.77      5331
+        1.0       0.77      0.77      0.77      5331
+
+avg / total       0.77      0.77      0.77     10662
+
+Running time of MultinomialNB:2.65190696716
+
+Result with parameters max features: 5500, gram number: from 1 to 2, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.77      0.77      0.77      5331
+        1.0       0.77      0.77      0.77      5331
+
+avg / total       0.77      0.77      0.77     10662
+
+Running time of MultinomialNB:2.71818304062
+
+Result with parameters max features: 5500, gram number: from 1 to 2, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.75      0.74      5331
+        1.0       0.74      0.73      0.73      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.73      0.73      5331
+        1.0       0.73      0.72      0.72      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.77      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:5.83163881302
+
+Result with parameters max features: 5500, gram number: from 1 to 2, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.73      0.73      5331
+        1.0       0.73      0.72      0.72      5331
+
+avg / total       0.73      0.73      0.73     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.77      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:5.79682302475
+
+Result with parameters max features: 6000, gram number: from 1 to 1, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.71      0.74      0.73      5331
+        1.0       0.73      0.70      0.71      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.77      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:3.34986019135
+
+Result with parameters max features: 6000, gram number: from 1 to 1, whether using tfidf: True, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.76      0.76      5331
+        1.0       0.76      0.75      0.75      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.77      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.76      0.76      0.76     10662
+
+Running time of MultinomialNB:3.43398809433
+
+Result with parameters max features: 6000, gram number: from 1 to 1, whether using tfidf: False, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.73      0.75      0.74      5331
+        1.0       0.74      0.73      0.73      5331
+
+avg / total       0.74      0.74      0.74     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.73      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.77      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.77      0.77      0.77     10662
+
+Running time of MultinomialNB:7.5963871479
+
+Result with parameters max features: 6000, gram number: from 1 to 1, whether using tfidf: False, regularizer: l2
+             precision    recall  f1-score   support
+
+        0.0       0.75      0.75      0.75      5331
+        1.0       0.75      0.75      0.75      5331
+
+avg / total       0.75      0.75      0.75     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.72      0.73      0.72      5331
+        1.0       0.72      0.72      0.72      5331
+
+avg / total       0.72      0.72      0.72     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.76      0.77      0.77      5331
+        1.0       0.77      0.76      0.76      5331
+
+avg / total       0.77      0.77      0.77     10662
+
+Running time of MultinomialNB:7.72718501091
+
+Result with parameters max features: 6000, gram number: from 2 to 2, whether using tfidf: True, regularizer: l1
+             precision    recall  f1-score   support
+
+        0.0       0.70      0.15      0.25      5331
+        1.0       0.52      0.94      0.67      5331
+
+avg / total       0.61      0.54      0.46     10662
+
+             precision    recall  f1-score   support
+
+        0.0       0.60      0.67      0.63      5331
+        1.0       0.62      0.55      0.58      5331
+
+avg / total       0.61      0.61      0.61     10662
+

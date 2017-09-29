@@ -1,0 +1,962 @@
+Without stopwords removed:
+Result with parameters max features: 2000, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.742263910541 Recall: 0.74226223973 f1-score: 0.742261795347
+
+SVM:
+Precision: 0.737855944277 Recall: 0.737854061152 f1-score: 0.737853542293
+
+Multinomial naive bayes:
+Precision: 0.747602999689 Recall: 0.747326955543 f1-score: 0.747256511768
+
+Result with parameters max features: 2000, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.740962731281 Recall: 0.74094916526 f1-score: 0.740945519116
+
+SVM:
+Precision: 0.735792060576 Recall: 0.735790658413 f1-score: 0.735790265625
+
+Multinomial naive bayes:
+Precision: 0.742738994857 Recall: 0.742449821797 f1-score: 0.742373094569
+
+Result with parameters max features: 2000, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.657689780419 Recall: 0.655880697805 f1-score: 0.654890889064
+
+SVM:
+Precision: 0.645078375015 Recall: 0.643781654474 f1-score: 0.642983895822
+
+Multinomial naive bayes:
+Precision: 0.662888342598 Recall: 0.661039204652 f1-score: 0.660074480648
+
+Result with parameters max features: 2500, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.749015229196 Recall: 0.749015194147 f1-score: 0.749015185316
+
+SVM:
+Precision: 0.744982257285 Recall: 0.744982179704 f1-score: 0.744982159514
+
+Multinomial naive bayes:
+Precision: 0.755762385741 Recall: 0.755486775464 f1-score: 0.755420885676
+
+Result with parameters max features: 2500, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.745930690664 Recall: 0.745920090039 f1-score: 0.745917352038
+
+SVM:
+Precision: 0.734852756341 Recall: 0.734852748077 f1-score: 0.734852745745
+
+Multinomial naive bayes:
+Precision: 0.749882129501 Recall: 0.749577940349 f1-score: 0.749501705542
+
+Result with parameters max features: 2500, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.663668117398 Recall: 0.662352279122 f1-score: 0.661672267971
+
+SVM:
+Precision: 0.65343434564 Recall: 0.652316638529 f1-score: 0.651682300161
+
+Multinomial naive bayes:
+Precision: 0.668892209628 Recall: 0.667041830801 f1-score: 0.666127355714
+
+Result with parameters max features: 3000, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.756425416651 Recall: 0.7564246858 f1-score: 0.756424512243
+
+SVM:
+Precision: 0.749772412796 Recall: 0.749765522416 f1-score: 0.749763796622
+
+Multinomial naive bayes:
+Precision: 0.760832195716 Recall: 0.760457700244 f1-score: 0.760371687359
+
+Result with parameters max features: 3000, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.751556058356 Recall: 0.751547552054 f1-score: 0.751545451698
+
+SVM:
+Precision: 0.736646801757 Recall: 0.736634777715 f1-score: 0.736631432271
+
+Multinomial naive bayes:
+Precision: 0.752484670337 Recall: 0.752297880323 f1-score: 0.752252058886
+
+Result with parameters max features: 3000, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.666173021213 Recall: 0.664978428062 f1-score: 0.664375238932
+
+SVM:
+Precision: 0.656004899735 Recall: 0.655036578503 f1-score: 0.654500450231
+
+Multinomial naive bayes:
+Precision: 0.673090898827 Recall: 0.671543800413 f1-score: 0.670808215684
+
+Result with parameters max features: 3500, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.758112933487 Recall: 0.758112924404 f1-score: 0.758112922277
+
+SVM:
+Precision: 0.751193609777 Recall: 0.75117238792 f1-score: 0.751167132317
+
+Multinomial naive bayes:
+Precision: 0.766032964183 Recall: 0.765616207091 f1-score: 0.765524376949
+
+Result with parameters max features: 3500, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.753061752324 Recall: 0.753048208591 f1-score: 0.753044904364
+
+SVM:
+Precision: 0.742449958295 Recall: 0.742449821797 f1-score: 0.742449785547
+
+Multinomial naive bayes:
+Precision: 0.758572812779 Recall: 0.758300506472 f1-score: 0.758236855513
+
+Result with parameters max features: 3500, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.668164559866 Recall: 0.667135621835 f1-score: 0.666625672645
+
+SVM:
+Precision: 0.656614970544 Recall: 0.655693115738 f1-score: 0.655185711005
+
+Multinomial naive bayes:
+Precision: 0.674487615025 Recall: 0.673325830051 f1-score: 0.67278115251
+
+Result with parameters max features: 4000, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.759801245284 Recall: 0.759801163009 f1-score: 0.759801143992
+
+SVM:
+Precision: 0.756340131091 Recall: 0.756330894766 f1-score: 0.756328699805
+
+Multinomial naive bayes:
+Precision: 0.768887196059 Recall: 0.768523729131 f1-score: 0.768445478464
+
+Result with parameters max features: 4000, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.757655718954 Recall: 0.757643969237 f1-score: 0.757641206201
+
+SVM:
+Precision: 0.746497416415 Recall: 0.746482836241 f1-score: 0.746479087338
+
+Multinomial naive bayes:
+Precision: 0.763190176531 Recall: 0.76299005815 f1-score: 0.762944996568
+
+Result with parameters max features: 4000, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.672061383473 Recall: 0.671168636278 f1-score: 0.670741543695
+
+SVM:
+Precision: 0.66079200547 Recall: 0.659913712249 f1-score: 0.659448664362
+
+Multinomial naive bayes:
+Precision: 0.681412365542 Recall: 0.680360157569 f1-score: 0.679895999599
+
+Result with parameters max features: 4500, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.758958829657 Recall: 0.758957043707 f1-score: 0.758956628108
+
+SVM:
+Precision: 0.756246922776 Recall: 0.756237103733 f1-score: 0.756234768543
+
+Multinomial naive bayes:
+Precision: 0.770416276716 Recall: 0.770118176702 f1-score: 0.770054805271
+
+Result with parameters max features: 4500, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.759542621244 Recall: 0.759519789908 f1-score: 0.759514501176
+
+SVM:
+Precision: 0.749866707579 Recall: 0.74985931345 f1-score: 0.749857462877
+
+Multinomial naive bayes:
+Precision: 0.765465459078 Recall: 0.765241042956 f1-score: 0.765191418015
+
+Result with parameters max features: 4500, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.674465961278 Recall: 0.673700994185 f1-score: 0.673342927331
+
+SVM:
+Precision: 0.660884607121 Recall: 0.66019508535 f1-score: 0.659830609523
+
+Multinomial naive bayes:
+Precision: 0.685916478079 Recall: 0.685049709248 f1-score: 0.684682195233
+
+Result with parameters max features: 5000, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.760367949465 Recall: 0.76036390921 f1-score: 0.76036297957
+
+SVM:
+Precision: 0.758043685127 Recall: 0.758019133371 f1-score: 0.758013377372
+
+Multinomial naive bayes:
+Precision: 0.773873539947 Recall: 0.773588444945 f1-score: 0.773529507519
+
+Result with parameters max features: 5000, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.762455247888 Recall: 0.762427311949 f1-score: 0.762420989926
+
+SVM:
+Precision: 0.751270458221 Recall: 0.751266178953 f1-score: 0.751265119932
+
+Multinomial naive bayes:
+Precision: 0.76787118802 Recall: 0.767585818796 f1-score: 0.767523903287
+
+Result with parameters max features: 5000, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.675478675942 Recall: 0.674826486588 f1-score: 0.674524068165
+
+SVM:
+Precision: 0.660568116141 Recall: 0.660007503283 f1-score: 0.659710478746
+
+Multinomial naive bayes:
+Precision: 0.689080416604 Recall: 0.688144813356 f1-score: 0.687758556924
+
+Result with parameters max features: 5500, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.759998707883 Recall: 0.759988745076 f1-score: 0.759986445825
+
+SVM:
+Precision: 0.758776600415 Recall: 0.758769461639 f1-score: 0.758767797943
+
+Multinomial naive bayes:
+Precision: 0.774158537877 Recall: 0.773869818045 f1-score: 0.773810267227
+
+Result with parameters max features: 5500, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.763952125773 Recall: 0.763927968486 f1-score: 0.763922566948
+
+SVM:
+Precision: 0.753617460422 Recall: 0.753610954793 f1-score: 0.75360937473
+
+Multinomial naive bayes:
+Precision: 0.769400471077 Recall: 0.769086475333 f1-score: 0.769019171259
+
+Result with parameters max features: 5500, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.681688256596 Recall: 0.68092290377 f1-score: 0.680586525391
+
+SVM:
+Precision: 0.666833125407 Recall: 0.666197711499 f1-score: 0.665879572091
+
+Multinomial naive bayes:
+Precision: 0.689526738662 Recall: 0.688613768524 f1-score: 0.688238321364
+
+Result with parameters max features: 6000, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.759715596734 Recall: 0.759707371975 f1-score: 0.759705469544
+
+SVM:
+Precision: 0.758022764993 Recall: 0.758019133371 f1-score: 0.758018281909
+
+Multinomial naive bayes:
+Precision: 0.774638115989 Recall: 0.774338773213 f1-score: 0.774277266392
+
+Result with parameters max features: 6000, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.76423645367 Recall: 0.764209341587 f1-score: 0.764203293084
+
+SVM:
+Precision: 0.755489373549 Recall: 0.755486775464 f1-score: 0.755486153846
+
+Multinomial naive bayes:
+Precision: 0.770195746133 Recall: 0.769930594635 f1-score: 0.769874137217
+
+Result with parameters max features: 6000, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.683151123596 Recall: 0.682423560308 f1-score: 0.682107855646
+
+SVM:
+Precision: 0.6698778831 Recall: 0.669199024573 f1-score: 0.668868211
+
+Multinomial naive bayes:
+Precision: 0.693029017379 Recall: 0.692084036766 f1-score: 0.691706721512
+
+Result with parameters max features: 6500, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.759339362141 Recall: 0.759332207841 f1-score: 0.759330548026
+
+SVM:
+Precision: 0.760088722693 Recall: 0.76008253611 f1-score: 0.760081109406
+
+Multinomial naive bayes:
+Precision: 0.778061061188 Recall: 0.777715250422 f1-score: 0.777646117795
+
+Result with parameters max features: 6500, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.766302129842 Recall: 0.766272744326 f1-score: 0.7662662964
+
+SVM:
+Precision: 0.75671418861 Recall: 0.756706058901 f1-score: 0.756704132707
+
+Multinomial naive bayes:
+Precision: 0.772539628674 Recall: 0.772275370475 f1-score: 0.772220155852
+
+Result with parameters max features: 6500, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.684255093867 Recall: 0.683549052711 f1-score: 0.683245612478
+
+SVM:
+Precision: 0.66882209216 Recall: 0.668167323204 f1-score: 0.667845261368
+
+Multinomial naive bayes:
+Precision: 0.693971541877 Recall: 0.693021947102 f1-score: 0.692645781148
+
+Result with parameters max features: 7000, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.759063314091 Recall: 0.75905083474 f1-score: 0.759047933012
+
+SVM:
+Precision: 0.758490717144 Recall: 0.758488088539 f1-score: 0.75848747455
+
+Multinomial naive bayes:
+Precision: 0.777437574593 Recall: 0.777058713187 f1-score: 0.776982576515
+
+Result with parameters max features: 7000, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.767052540916 Recall: 0.767023072594 f1-score: 0.767016645368
+
+SVM:
+Precision: 0.762245497157 Recall: 0.762239729882 f1-score: 0.762238422675
+
+Multinomial naive bayes:
+Precision: 0.773907694016 Recall: 0.773588444945 f1-score: 0.773522453054
+
+Result with parameters max features: 7000, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.686595173723 Recall: 0.685800037516 f1-score: 0.685464956233
+
+SVM:
+Precision: 0.674086698294 Recall: 0.673419621084 f1-score: 0.673106467886
+
+Multinomial naive bayes:
+Precision: 0.695726536519 Recall: 0.69480397674 f1-score: 0.694443916016
+
+Result with parameters max features: 7500, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.759808851349 Recall: 0.759801163009 f1-score: 0.759799385987
+
+SVM:
+Precision: 0.759723492993 Recall: 0.759707371975 f1-score: 0.759703643181
+
+Multinomial naive bayes:
+Precision: 0.777407390966 Recall: 0.777058713187 f1-score: 0.776988636551
+
+Result with parameters max features: 7500, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.767702226401 Recall: 0.767679609829 f1-score: 0.767674702883
+
+SVM:
+Precision: 0.763552813626 Recall: 0.763552804352 f1-score: 0.763552802272
+
+Multinomial naive bayes:
+Precision: 0.774974170265 Recall: 0.774713937348 f1-score: 0.774660622591
+
+Result with parameters max features: 7500, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.691563641133 Recall: 0.69086475333 f1-score: 0.690582538907
+
+SVM:
+Precision: 0.675411115377 Recall: 0.674920277621 f1-score: 0.674692707805
+
+Multinomial naive bayes:
+Precision: 0.699197472901 Recall: 0.698368036016 f1-score: 0.698053718043
+
+Result with parameters max features: 8000, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.759054854619 Recall: 0.75905083474 f1-score: 0.759049900006
+
+SVM:
+Precision: 0.760470934791 Recall: 0.760457700244 f1-score: 0.760454657415
+
+Multinomial naive bayes:
+Precision: 0.778392383707 Recall: 0.777996623523 f1-score: 0.777917695956
+
+Result with parameters max features: 8000, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.766664460303 Recall: 0.76664790846 f1-score: 0.766644287367
+
+SVM:
+Precision: 0.762333520915 Recall: 0.762333520915 f1-score: 0.762333520915
+
+Multinomial naive bayes:
+Precision: 0.776469899589 Recall: 0.776214593885 f1-score: 0.776162918382
+
+Result with parameters max features: 8000, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.69262490104 Recall: 0.691990245733 f1-score: 0.691736331035
+
+SVM:
+Precision: 0.676861264522 Recall: 0.676420934159 f1-score: 0.676219405538
+
+Multinomial naive bayes:
+Precision: 0.70166848455 Recall: 0.700900393922 f1-score: 0.700615328856
+
+Result with parameters max features: 8500, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.758959996006 Recall: 0.758957043707 f1-score: 0.758956356696
+
+SVM:
+Precision: 0.762744223558 Recall: 0.76270868505 f1-score: 0.762700660835
+
+Multinomial naive bayes:
+Precision: 0.778088513966 Recall: 0.777809041456 f1-score: 0.777753203236
+
+Result with parameters max features: 8500, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.768079308976 Recall: 0.768054773964 f1-score: 0.76804946685
+
+SVM:
+Precision: 0.763647931272 Recall: 0.763646595385 f1-score: 0.763646295988
+
+Multinomial naive bayes:
+Precision: 0.776673393111 Recall: 0.776495966986 f1-score: 0.776460128869
+
+Result with parameters max features: 8500, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.694221958849 Recall: 0.693678484337 f1-score: 0.693464046074
+
+SVM:
+Precision: 0.678957088125 Recall: 0.678484336897 f1-score: 0.678271859461
+
+Multinomial naive bayes:
+Precision: 0.701588454721 Recall: 0.700806602889 f1-score: 0.700516219267
+
+Result with parameters max features: 9000, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.758775616988 Recall: 0.758769461639 f1-score: 0.758768027127
+
+SVM:
+Precision: 0.762640853536 Recall: 0.762614894016 f1-score: 0.762609028063
+
+Multinomial naive bayes:
+Precision: 0.777505730992 Recall: 0.777246295254 f1-score: 0.777194220851
+
+Result with parameters max features: 9000, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.767054683637 Recall: 0.767023072594 f1-score: 0.767016178069
+
+SVM:
+Precision: 0.76524217226 Recall: 0.765241042956 f1-score: 0.765240793077
+
+Multinomial naive bayes:
+Precision: 0.77885662523 Recall: 0.778653160758 f1-score: 0.778612777609
+
+Result with parameters max features: 9000, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.69902903718 Recall: 0.698555618083 f1-score: 0.698376254253
+
+SVM:
+Precision: 0.681882918404 Recall: 0.681391858938 f1-score: 0.681176663885
+
+Multinomial naive bayes:
+Precision: 0.704403581393 Recall: 0.703620333896 f1-score: 0.703336139724
+
+Result with parameters max features: 9500, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.758957954903 Recall: 0.758957043707 f1-score: 0.758956831667
+
+SVM:
+Precision: 0.763022274712 Recall: 0.76299005815 f1-score: 0.762982800325
+
+Multinomial naive bayes:
+Precision: 0.776257547539 Recall: 0.776027011818 f1-score: 0.775980275946
+
+Result with parameters max features: 9500, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.767046564034 Recall: 0.767023072594 f1-score: 0.767017948877
+
+SVM:
+Precision: 0.76683924624 Recall: 0.766835490527 f1-score: 0.766834670088
+
+Multinomial naive bayes:
+Precision: 0.779176670806 Recall: 0.778934533859 f1-score: 0.778886589553
+
+Result with parameters max features: 9500, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.700428292622 Recall: 0.699962483587 f1-score: 0.699788055323
+
+SVM:
+Precision: 0.684802846326 Recall: 0.684393172013 f1-score: 0.684218164283
+
+Multinomial naive bayes:
+Precision: 0.703764508024 Recall: 0.703057587695 f1-score: 0.702799818503
+
+With stopwords removed:
+Result with parameters max features: 2000, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.73063332017 Recall: 0.730632151566 f1-score: 0.730631810349
+
+SVM:
+Precision: 0.722944424714 Recall: 0.722941286813 f1-score: 0.722940311922
+
+Multinomial naive bayes:
+Precision: 0.740247664998 Recall: 0.740198836991 f1-score: 0.740185635804
+
+Result with parameters max features: 2000, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.729324531909 Recall: 0.729319077096 f1-score: 0.729317467453
+
+SVM:
+Precision: 0.721914465763 Recall: 0.721909585444 f1-score: 0.721908056501
+
+Multinomial naive bayes:
+Precision: 0.736395335906 Recall: 0.736353404615 f1-score: 0.736341712831
+
+Result with parameters max features: 2000, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.612851378926 Recall: 0.590320765335 f1-score: 0.56879858139
+
+SVM:
+Precision: 0.608958370964 Recall: 0.587131870193 f1-score: 0.565365409912
+
+Multinomial naive bayes:
+Precision: 0.607430863099 Recall: 0.585256049522 f1-score: 0.56268973741
+
+Result with parameters max features: 2500, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.739825833179 Recall: 0.739823672857 f1-score: 0.739823086946
+
+SVM:
+Precision: 0.72763471523 Recall: 0.727630838492 f1-score: 0.72762967884
+
+Multinomial naive bayes:
+Precision: 0.748055772214 Recall: 0.747983492778 f1-score: 0.747965133058
+
+Result with parameters max features: 2500, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.73823064195 Recall: 0.738229225286 f1-score: 0.738228836123
+
+SVM:
+Precision: 0.729328405306 Recall: 0.729319077096 f1-score: 0.7293163245
+
+Multinomial naive bayes:
+Precision: 0.746724599589 Recall: 0.746670418308 f1-score: 0.746656509607
+
+Result with parameters max features: 2500, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.6108255132 Recall: 0.591727630838 f1-score: 0.57334700608
+
+SVM:
+Precision: 0.60777070864 Recall: 0.588726317764 f1-score: 0.569717274114
+
+Multinomial naive bayes:
+Precision: 0.607658335658 Recall: 0.588820108798 f1-score: 0.57001002637
+
+Result with parameters max features: 3000, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.744902176479 Recall: 0.74488838867 f1-score: 0.744884797971
+
+SVM:
+Precision: 0.735603150957 Recall: 0.735603076346 f1-score: 0.735603055413
+
+Multinomial naive bayes:
+Precision: 0.752437718413 Recall: 0.752391671356 f1-score: 0.752380379309
+
+Result with parameters max features: 3000, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.74385710775 Recall: 0.743856687301 f1-score: 0.743856576892
+
+SVM:
+Precision: 0.732790729654 Recall: 0.732789345339 f1-score: 0.732788948089
+
+Multinomial naive bayes:
+Precision: 0.748011846154 Recall: 0.747983492778 f1-score: 0.747976289772
+
+Result with parameters max features: 3000, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.613647103939 Recall: 0.59622960045 f1-score: 0.580142820325
+
+SVM:
+Precision: 0.607996512931 Recall: 0.591540048771 f1-score: 0.575363567603
+
+Multinomial naive bayes:
+Precision: 0.611071318473 Recall: 0.594259988745 f1-score: 0.578303392545
+
+Result with parameters max features: 3500, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.748272728261 Recall: 0.748264865879 f1-score: 0.748262872855
+
+SVM:
+Precision: 0.741513577098 Recall: 0.741511911461 f1-score: 0.741511465784
+
+Multinomial naive bayes:
+Precision: 0.756436141683 Recall: 0.756330894766 f1-score: 0.756305890439
+
+Result with parameters max features: 3500, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.747718994814 Recall: 0.747702119677 f1-score: 0.747697822839
+
+SVM:
+Precision: 0.738514660416 Recall: 0.738510598387 f1-score: 0.738509485057
+
+Multinomial naive bayes:
+Precision: 0.752701934016 Recall: 0.752673044457 f1-score: 0.752665975486
+
+Result with parameters max features: 3500, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.616748985761 Recall: 0.600919152129 f1-score: 0.586916807326
+
+SVM:
+Precision: 0.612808395773 Recall: 0.597730256987 f1-score: 0.583823565936
+
+Multinomial naive bayes:
+Precision: 0.614652507341 Recall: 0.599981241793 f1-score: 0.586761442344
+
+Result with parameters max features: 4000, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.753048288727 Recall: 0.753048208591 f1-score: 0.75304818904
+
+SVM:
+Precision: 0.745551224625 Recall: 0.745544925905 f1-score: 0.745543294116
+
+Multinomial naive bayes:
+Precision: 0.758994371551 Recall: 0.758957043707 f1-score: 0.758948358249
+
+Result with parameters max features: 4000, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.752016542693 Recall: 0.752016507222 f1-score: 0.752016498496
+
+SVM:
+Precision: 0.740481640142 Recall: 0.740480210092 f1-score: 0.740479824276
+
+Multinomial naive bayes:
+Precision: 0.758792226965 Recall: 0.758769461639 f1-score: 0.758764156406
+
+Result with parameters max features: 4000, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.616480471553 Recall: 0.6025135997 f1-score: 0.590229984208
+
+SVM:
+Precision: 0.612147302639 Recall: 0.598480585256 f1-score: 0.585863504164
+
+Multinomial naive bayes:
+Precision: 0.619010742476 Recall: 0.606171450009 f1-score: 0.595255129217
+
+Result with parameters max features: 4500, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.752485897717 Recall: 0.75248546239 f1-score: 0.752485355701
+
+SVM:
+Precision: 0.744044690141 Recall: 0.744044269368 f1-score: 0.74404415904
+
+Multinomial naive bayes:
+Precision: 0.760100254683 Recall: 0.76008253611 f1-score: 0.76007845012
+
+Result with parameters max features: 4500, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.75342380967 Recall: 0.753423372726 f1-score: 0.753423266441
+
+SVM:
+Precision: 0.745206215404 Recall: 0.745169761771 f1-score: 0.745160290321
+
+Multinomial naive bayes:
+Precision: 0.762086463043 Recall: 0.762052147815 f1-score: 0.762044358875
+
+Result with parameters max features: 4500, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.617701920024 Recall: 0.604858375539 f1-score: 0.593776680191
+
+SVM:
+Precision: 0.604577447851 Recall: 0.597073719752 f1-score: 0.589713922708
+
+Multinomial naive bayes:
+Precision: 0.62412338491 Recall: 0.611986494091 f1-score: 0.602263746259
+
+Result with parameters max features: 5000, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.752673480108 Recall: 0.752673044457 f1-score: 0.752672937849
+
+SVM:
+Precision: 0.741981896899 Recall: 0.741980866629 f1-score: 0.741980591991
+
+Multinomial naive bayes:
+Precision: 0.763196393945 Recall: 0.763177640218 f1-score: 0.763173421523
+
+Result with parameters max features: 5000, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.754173781487 Recall: 0.754173700994 f1-score: 0.754173681532
+
+SVM:
+Precision: 0.749397238312 Recall: 0.749390358282 f1-score: 0.749388629901
+
+Multinomial naive bayes:
+Precision: 0.764126935511 Recall: 0.764115550553 f1-score: 0.764113008628
+
+Result with parameters max features: 5000, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.622590539588 Recall: 0.610861001688 f1-score: 0.6013246257
+
+SVM:
+Precision: 0.60329911701 Recall: 0.602888763834 f1-score: 0.60249399315
+
+Multinomial naive bayes:
+Precision: 0.631834198577 Recall: 0.619958731945 f1-score: 0.611203143203
+
+Result with parameters max features: 5500, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.752954559969 Recall: 0.752954417558 f1-score: 0.752954382786
+
+SVM:
+Precision: 0.743955422757 Recall: 0.743950478334 f1-score: 0.743949180942
+
+Multinomial naive bayes:
+Precision: 0.763934738768 Recall: 0.763927968486 f1-score: 0.763926454585
+
+Result with parameters max features: 5500, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.753143282285 Recall: 0.753141999625 f1-score: 0.753141686921
+
+SVM:
+Precision: 0.746952660362 Recall: 0.746951791409 f1-score: 0.746951568808
+
+Multinomial naive bayes:
+Precision: 0.76636699462 Recall: 0.766366535359 f1-score: 0.766366434654
+
+Result with parameters max features: 5500, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.624778455014 Recall: 0.613956105796 f1-score: 0.605399941935
+
+SVM:
+Precision: 0.606668190694 Recall: 0.606359032077 f1-score: 0.606073600824
+
+Multinomial naive bayes:
+Precision: 0.630596312627 Recall: 0.620146314012 f1-score: 0.612392461396
+
+Result with parameters max features: 6000, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.755018143336 Recall: 0.755017820296 f1-score: 0.755017742715
+
+SVM:
+Precision: 0.74639074448 Recall: 0.746389045207 f1-score: 0.74638860794
+
+Multinomial naive bayes:
+Precision: 0.764688439266 Recall: 0.764678296755 f1-score: 0.764676042429
+
+Result with parameters max features: 6000, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.75445596945 Recall: 0.754455074095 f1-score: 0.754454858095
+
+SVM:
+Precision: 0.74864174481 Recall: 0.748640030013 f1-score: 0.748639596626
+
+Multinomial naive bayes:
+Precision: 0.766460326393 Recall: 0.766460326393 f1-score: 0.766460326393
+
+Result with parameters max features: 6000, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.624390588449 Recall: 0.614331269931 f1-score: 0.606373238252
+
+SVM:
+Precision: 0.610063738223 Recall: 0.608422434815 f1-score: 0.606957141628
+
+Multinomial naive bayes:
+Precision: 0.632278937543 Recall: 0.62061526918 f1-score: 0.612063718539
+
+Result with parameters max features: 6500, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.755019112461 Recall: 0.755017820296 f1-score: 0.755017509969
+
+SVM:
+Precision: 0.746686467932 Recall: 0.746670418308 f1-score: 0.746666297783
+
+Multinomial naive bayes:
+Precision: 0.76590970631 Recall: 0.765897580191 f1-score: 0.765894911253
+
+Result with parameters max features: 6500, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.754642692003 Recall: 0.754642656162 f1-score: 0.754642647529
+
+SVM:
+Precision: 0.749111518409 Recall: 0.749108985181 f1-score: 0.749108347348
+
+Multinomial naive bayes:
+Precision: 0.767117098604 Recall: 0.767116863628 f1-score: 0.767116812412
+
+Result with parameters max features: 6500, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.624944912485 Recall: 0.614894016132 f1-score: 0.606990334144
+
+SVM:
+Precision: 0.621175800806 Recall: 0.611142374789 f1-score: 0.602922820057
+
+Multinomial naive bayes:
+Precision: 0.631920955072 Recall: 0.620052522979 f1-score: 0.611310285091
+
+Result with parameters max features: 7000, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.75576904854 Recall: 0.755768148565 f1-score: 0.75576793372
+
+SVM:
+Precision: 0.746122230089 Recall: 0.746107672107 f1-score: 0.746103917656
+
+Multinomial naive bayes:
+Precision: 0.765066229407 Recall: 0.765053460889 f1-score: 0.76505063145
+
+Result with parameters max features: 7000, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.754642978727 Recall: 0.754642656162 f1-score: 0.754642578461
+
+SVM:
+Precision: 0.74826836021 Recall: 0.748264865879 f1-score: 0.748263980094
+
+Multinomial naive bayes:
+Precision: 0.768243498113 Recall: 0.768242356031 f1-score: 0.768242109346
+
+Result with parameters max features: 7000, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.626111281823 Recall: 0.615831926468 f1-score: 0.607840680679
+
+SVM:
+Precision: 0.612772802809 Recall: 0.609266554117 f1-score: 0.606205663453
+
+Multinomial naive bayes:
+Precision: 0.631716402178 Recall: 0.620146314012 f1-score: 0.611617342846
+
+Result with parameters max features: 7500, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.756898847725 Recall: 0.756893640968 f1-score: 0.756892409158
+
+SVM:
+Precision: 0.750520928175 Recall: 0.750515850685 f1-score: 0.750514586559
+
+Multinomial naive bayes:
+Precision: 0.76693830801 Recall: 0.766929281561 f1-score: 0.766927311238
+
+Result with parameters max features: 7500, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.755675086244 Recall: 0.755674357531 f1-score: 0.75567418344
+
+SVM:
+Precision: 0.748921622084 Recall: 0.748921403114 f1-score: 0.748921347897
+
+Multinomial naive bayes:
+Precision: 0.7692740953 Recall: 0.7692740574 f1-score: 0.769274049282
+
+Result with parameters max features: 7500, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.625236026003 Recall: 0.615081598199 f1-score: 0.607117644777
+
+SVM:
+Precision: 0.60624935632 Recall: 0.605890076909 f1-score: 0.605556626929
+
+Multinomial naive bayes:
+Precision: 0.630808544142 Recall: 0.620146314012 f1-score: 0.61224481366
+
+Result with parameters max features: 8000, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.756622101287 Recall: 0.756612267867 f1-score: 0.756609936271
+
+SVM:
+Precision: 0.750634414517 Recall: 0.750609641718 f1-score: 0.750603479107
+
+Multinomial naive bayes:
+Precision: 0.766194698549 Recall: 0.766178953292 f1-score: 0.766175495647
+
+Result with parameters max features: 8000, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.756424911371 Recall: 0.7564246858 f1-score: 0.756424632233
+
+SVM:
+Precision: 0.749393201513 Recall: 0.749390358282 f1-score: 0.749389644005
+
+Multinomial naive bayes:
+Precision: 0.771057698912 Recall: 0.771056087038 f1-score: 0.771055746678
+
+Result with parameters max features: 8000, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.624331171725 Recall: 0.61404989683 f1-score: 0.605902657778
+
+SVM:
+Precision: 0.606722242543 Recall: 0.606359032077 f1-score: 0.606023824843
+
+Multinomial naive bayes:
+Precision: 0.628119158484 Recall: 0.619583567811 f1-score: 0.613140197115
+
+Result with parameters max features: 8500, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.755967403358 Recall: 0.755955730632 f1-score: 0.75595294835
+
+SVM:
+Precision: 0.752692685793 Recall: 0.752673044457 f1-score: 0.752668238297
+
+Multinomial naive bayes:
+Precision: 0.767773438551 Recall: 0.767773400863 f1-score: 0.767773392692
+
+Result with parameters max features: 8500, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.757362677638 Recall: 0.757362596136 f1-score: 0.757362576926
+
+SVM:
+Precision: 0.751457300235 Recall: 0.75145376102 f1-score: 0.751452886457
+
+Multinomial naive bayes:
+Precision: 0.770025753871 Recall: 0.770024385669 f1-score: 0.770024094351
+
+Result with parameters max features: 8500, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.62447718172 Recall: 0.614237478897 f1-score: 0.606137531225
+
+SVM:
+Precision: 0.609395209138 Recall: 0.607953479647 f1-score: 0.606657505448
+
+Multinomial naive bayes:
+Precision: 0.630679733371 Recall: 0.61930219471 f1-score: 0.610831525131
+
+Result with parameters max features: 9000, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.75634391962 Recall: 0.756330894766 f1-score: 0.756327799516
+
+SVM:
+Precision: 0.753249344431 Recall: 0.753235790658 f1-score: 0.753232488941
+
+Multinomial naive bayes:
+Precision: 0.768711651585 Recall: 0.768711311199 f1-score: 0.768711237953
+
+Result with parameters max features: 9000, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.758019714424 Recall: 0.758019133371 f1-score: 0.758018997137
+
+SVM:
+Precision: 0.750426721079 Recall: 0.750422059651 f1-score: 0.750420898238
+
+Multinomial naive bayes:
+Precision: 0.768818051479 Recall: 0.768805102232 f1-score: 0.768802317974
+
+Result with parameters max features: 9000, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.625061062951 Recall: 0.614800225098 f1-score: 0.606733681786
+
+SVM:
+Precision: 0.616910165486 Recall: 0.610767210655 f1-score: 0.6055861677
+
+Multinomial naive bayes:
+Precision: 0.631108762166 Recall: 0.619489776777 f1-score: 0.610868473662
+
+Result with parameters max features: 9500, gram number: from 1 to 1.
+Logistic Regression:
+Precision: 0.756063226035 Recall: 0.756049521666 f1-score: 0.756046257597
+
+SVM:
+Precision: 0.753816622243 Recall: 0.75379853686 f1-score: 0.753794151088
+
+Multinomial naive bayes:
+Precision: 0.768996858453 Recall: 0.768992684299 f1-score: 0.768991788133
+
+Result with parameters max features: 9500, gram number: from 1 to 2.
+Logistic Regression:
+Precision: 0.757737769339 Recall: 0.75773776027 f1-score: 0.757737758139
+
+SVM:
+Precision: 0.75165157932 Recall: 0.751641343088 f1-score: 0.75163881749
+
+Multinomial naive bayes:
+Precision: 0.769470173137 Recall: 0.769461639467 f1-score: 0.769459814262
+
+Result with parameters max features: 9500, gram number: from 2 to 2.
+Logistic Regression:
+Precision: 0.625994479455 Recall: 0.615738135434 f1-score: 0.607755656875
+
+SVM:
+Precision: 0.622259467904 Recall: 0.612267867192 f1-score: 0.604180830741
+
+Multinomial naive bayes:
+Precision: 0.630688171091 Recall: 0.619208403677 f1-score: 0.610658373322
+
